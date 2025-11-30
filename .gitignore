@@ -1,0 +1,12 @@
+# Ignore the build folder
+build/
+dist/
+
+# Ignore all files in the coverage directory
+coverage/
+
+# Ignore the node_modules folder
+node_modules/
+
+# Ignore all .env files
+.env
